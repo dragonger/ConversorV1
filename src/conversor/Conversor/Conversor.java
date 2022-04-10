@@ -13,5 +13,6 @@ public class Conversor {
     float dolar = Float.parseFloat(teclado.nextLine());
     float conversão = salario* dolar;
         System.out.printf("Salario em real é de %.2f \n ",conversão);
+        System.out.println("Tudo certo github?");
     }
 }
